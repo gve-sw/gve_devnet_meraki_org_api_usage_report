@@ -1,0 +1,14 @@
+# Environment
+venv
+
+# Sensitive File
+.env
+
+# Output File
+*.csv
+!meraki_api_requests_sample.csv
+
+# IDE files
+.idea
+__pycache__
+.DS_Store
